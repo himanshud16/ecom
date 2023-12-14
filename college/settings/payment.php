@@ -1,0 +1,6 @@
+<?php 
+$PAYMENT_API_KEY= "test_e92440e772dd742481ad80c2c19";
+$PAYMENT_AUTH_TOKEN= "test_c1a6ea7284470250eb44225de10";
+$PAYMENT_SALT= "2fb20e806db54aeca1c79ca92d03ba15";
+$PAYMENT_WEBSITE= "test.instamojo.com";
+?>

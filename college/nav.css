@@ -1,0 +1,22 @@
+.navbar{
+    /* border: 20px solid red;     */
+    background-color: #131921;
+    /* height: 5em; */
+}
+
+.logo{
+    width:100%;
+    
+}
+.logo_a{
+    width:7.5em;
+    
+    
+}
+.cart-number{
+    width: 2%;
+    text-align: center;
+    margin: 0.7em 0em 0em 19.33em ;
+    color: #F08804;    
+    /* border : 1px solid yellow; */
+}
